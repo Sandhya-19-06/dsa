@@ -1,1 +1,5 @@
 text=input("enter the string:")
+a=input("enter name")
+b=input(" new word")
+c=text.replace(a,b)
+print(c)
